@@ -1,0 +1,22 @@
+{
+  "name": "jr-side-menu",
+  "version": "0.0.3",
+  "repository":{
+    "type":"git",
+    "url": "https://github.com/edgarestebens/jr-workspace"
+  },
+  "keywords": ["Estebens","JR","not-use"],
+  "license":"MIT",
+  "author": "Edgar Estebens Jaramillo Rodriguez",
+  "bugs":{
+    "url":"https://github.com/edgarestebens/jr-workspace/issues"
+  },
+  "peerDependencies": {
+    "@angular/common": "^19.2.0",
+    "@angular/core": "^19.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
